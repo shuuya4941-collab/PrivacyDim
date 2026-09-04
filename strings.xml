@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Privacy Dim</string>
+    <string name="accessibility_service_description">تراقب هذه الخدمة اسم التطبيق المفتوح حاليًا في المقدمة فقط (بدون قراءة أي محتوى داخل الشاشة)، وتُستخدم لتفعيل تعتيم الشاشة تلقائيًا عند فتح تطبيق حددته أنت.</string>
+</resources>
